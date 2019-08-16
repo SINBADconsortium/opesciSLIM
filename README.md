@@ -1,5 +1,5 @@
 
-# Julia Devito - A scalable research framework for seismic inversion
+# Public legacy release of Julia Devito - A scalable research framework for seismic inversion
 
 ## Overview
 
